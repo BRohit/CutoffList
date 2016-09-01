@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/../classes/production" />
+    <output-test url="file://$MODULE_DIR$/../classes/test" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" packagePrefix="aspose.ms" />
+      <sourceFolder url="file://$MODULE_DIR$/System" isTestSource="false" packagePrefix="aspose.ms.System" />
+      <sourceFolder url="file://$MODULE_DIR$/System/Collections" isTestSource="false" packagePrefix="aspose.ms.System.Collections" />
+      <sourceFolder url="file://$MODULE_DIR$/System/Drawing" isTestSource="false" packagePrefix="aspose.ms.System.Drawing" />
+      <sourceFolder url="file://$MODULE_DIR$/System/Drawing/Drawing2D" isTestSource="false" packagePrefix="aspose.ms.System.Drawing.Drawing2D" />
+      <sourceFolder url="file://$MODULE_DIR$/System/Drawing/Imaging" isTestSource="false" packagePrefix="aspose.ms.System.Drawing.Imaging" />
+      <sourceFolder url="file://$MODULE_DIR$/System/IO" isTestSource="false" packagePrefix="aspose.ms.System.IO" />
+      <sourceFolder url="file://$MODULE_DIR$/System/Text" isTestSource="false" packagePrefix="aspose.ms.System.Text" />
+      <sourceFolder url="file://$MODULE_DIR$/System/Text/RegularExpressions" isTestSource="false" packagePrefix="aspose.ms.System.Text.RegularExpressions" />
+      <sourceFolder url="file://$MODULE_DIR$/System/Xml" isTestSource="false" packagePrefix="aspose.ms.System.Xml" />
+      <sourceFolder url="file://$MODULE_DIR$/java" isTestSource="false" packagePrefix="aspose" />
+      <sourceFolder url="file://$MODULE_DIR$/java/collections" isTestSource="false" packagePrefix="aspose.collections" />
+      <sourceFolder url="file://$MODULE_DIR$/java/utf7charset" isTestSource="false" packagePrefix="aspose.charset" />
+      <sourceFolder url="file://$MODULE_DIR$/java/utf7charset/provider" isTestSource="false" packagePrefix="com.aspose.words" />
+      <sourceFolder url="file://$MODULE_DIR$/Tests" isTestSource="true" packagePrefix="aspose" />
+      <sourceFolder url="file://$MODULE_DIR$/Tests/System" isTestSource="true" packagePrefix="aspose" />
+      <sourceFolder url="file://$MODULE_DIR$/Tests/System/Number" isTestSource="true" packagePrefix="aspose" />
+      <sourceFolder url="file://$MODULE_DIR$/Tests/System/Collections" isTestSource="true" packagePrefix="aspose" />
+      <sourceFolder url="file://$MODULE_DIR$/Tests/System/IO" isTestSource="true" packagePrefix="aspose" />
+      <sourceFolder url="file://$MODULE_DIR$/Tests/System/IO/FileStream" isTestSource="true" packagePrefix="aspose" />
+      <sourceFolder url="file://$MODULE_DIR$/Tests/System/IO/StreamWriter" isTestSource="true" packagePrefix="aspose" />
+      <sourceFolder url="file://$MODULE_DIR$/Tests/System/Regex" isTestSource="true" packagePrefix="aspose" />
+      <sourceFolder url="file://$MODULE_DIR$/Tests/System/Xml" isTestSource="true" packagePrefix="aspose" />
+      <sourceFolder url="file://$MODULE_DIR$/META-INF" isTestSource="false" packagePrefix="META-INF" />
+      <sourceFolder url="file://$MODULE_DIR$/META-INF/services" isTestSource="false" packagePrefix="META-INF\services" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="jsr" level="project" />
+    <orderEntry type="library" name="sjsxp" level="project" />
+    <orderEntry type="library" name="testng" level="project" />
+  </component>
+</module>
+
